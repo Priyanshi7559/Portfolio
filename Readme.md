@@ -8,7 +8,7 @@ I'm Priyanshi Anand, a passionate learner and aspiring Data Analyst/Developer. I
 
 - **LinkedIn**: [linkedin.com/in/anandpriyanshi24/](https://linkedin.com/in/anandpriyanshi24/)
 - **Email**: anandpriyanshi24@gmail.com
-- **GitHub**: [github.com/Priyanshi7559](https://github.com/anandpriyanshi24/)
+- **GitHub**: [github.com/anandpriyanshi24](https://github.com/anandpriyanshi24/)
 - **Mobile**: +91-9518136869
 
 ## Skills
